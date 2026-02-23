@@ -126,12 +126,14 @@ El dashboard facilita la exploración tanto a nivel general como detallado, apoy
 
 ---
 
+## 🚀 Conclusión
+
+Este proyecto demuestra cómo la combinación de **análisis de datos** e **Inteligencia Artificial Generativa** permite transformar reseñas de usuarios en información accionable. El uso de dashboards interactivos y visualizaciones generadas con apoyo de IA facilita la exploración de datos y fortalece la toma de decisiones basada en evidencia dentro de un contexto real de negocio.
+
+---
+
 ## 👥 Autor
 
 Proyecto académico desarrollado por **Aquiles Vallejo**  
 (en conjunto con su equipo de trabajo)
 ---
-
-## 🚀 Conclusión
-
-Este proyecto demuestra cómo la combinación de **análisis de datos** e **Inteligencia Artificial Generativa** permite transformar reseñas de usuarios en información accionable. El uso de dashboards interactivos y visualizaciones generadas con apoyo de IA facilita la exploración de datos y fortalece la toma de decisiones basada en evidencia dentro de un contexto real de negocio.
