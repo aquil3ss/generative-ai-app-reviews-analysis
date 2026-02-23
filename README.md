@@ -126,14 +126,10 @@ El dashboard facilita la exploración tanto a nivel general como detallado, apoy
 
 ---
 
-## 👥 Equipo de Trabajo – Grupo 7
+## 👥 Autor
 
-- Katherine Forero Villota  
-- Aquiles Vallejo Vásquez  
-- Darwin Peralta Baidal  
-- Ivonne Rubira Espinoza  
-- Luis González Gavilanes  
-
+Proyecto académico desarrollado por **Aquiles Vallejo**  
+(en conjunto con su equipo de trabajo)
 ---
 
 ## 🚀 Conclusión
